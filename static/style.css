@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#canvas{
+    margin-bottom: 20px;
+
+}
+button{
+    margin: 5px;
+}

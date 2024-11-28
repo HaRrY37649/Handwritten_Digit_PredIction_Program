@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="GDSC_AIML_JOB-Placement-prediction" />
+    <orderEntry type="module" module-name="Resume_Generator_Project" />
+  </component>
+</module>
